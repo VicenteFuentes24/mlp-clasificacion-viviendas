@@ -1,4 +1,4 @@
-# Evaluación 1 - Fundamentos de Deep Learning
+# Clasificación de viviendas con Deep Learning
 
 ## Integrantes
 
